@@ -7,6 +7,10 @@ A Python script that calculates Islamic prayer times, idk why i even make this, 
 
 ![table](table.png)
 
+# Explanation?
+
+It turns out that the pattern repeating every year (365.25 approximately?), is this some ball knowledge idk tho
+
 ## Installation
 
 1. Clone or download this repository.
